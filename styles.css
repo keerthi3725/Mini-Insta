@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600");
+@import "variables.css";
+@import "navigation.css";
+@import "feed.css";
+@import "profile.css";
+@import "share.css";
+.fa {
+    color: rgb(232, 50, 80);
+    font-size: 30px;
+    cursor: pointer;
+    user-select: none;
+  }
